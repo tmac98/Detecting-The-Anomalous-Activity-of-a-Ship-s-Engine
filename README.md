@@ -47,9 +47,3 @@ The analysis identified **engine performance anomalies** across key parameters:
 - 📊 **Explore alternative anomaly detection methods** (e.g., Autoencoders, DBSCAN).  
 - 📈 **Integrate real-time monitoring** for early detection and automatic alerts.  
 - 🖥️ **Develop an interactive dashboard** for shipping operators to track engine health.  
-
----
-
-This README ensures **clarity, professionalism, and alignment with your previous projects** while making it **business-friendly**. 🚀 Let me know if you'd like any refinements!
-
-✅ Consistency with your previous project – Your Customer Segmentation README used section icons (📌, 📊, 🧠, etc.), so this keeps it uniform.
