@@ -29,8 +29,8 @@ The analysis identified **engine performance anomalies** across key parameters:
 
 ## 📂 **Project Files**
 
-- 📄 **Jupyter Notebook**(./Detecting-The-Anomalous-Activity-of-a-Ship-s-Engine.ipynb)
-- 📑 **Detailed Report**(./Detecting-The-Anomalous-Activity-of-a-Ship-s-Engine.pdf)  
+- 📄 **[Jupyter Notebook: Detecting The Anomalous Activity of A Ship's Engine](./Detecting-The-Anomalous-Activity-of-a-Ship-s-Engine.ipynb)**
+- 📑 **[Detailed Report: Detecting The Anomalous Activity of A Ship's Engine](./Detecting-The-Anomalous-Activity-of-a-Ship-s-Engine.pdf)**
 
 ---
 
